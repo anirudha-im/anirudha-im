@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anirudha-im
 - 👀 I’m interested in making this world a better palce but, HOW ?
-- 🌱 I’m currently learning Django ! 
+- 🌱 I’m currently learning Node ! 
 - 📫 How to reach me ... anirudha@intelligentmachin.es 
 
 <!---
